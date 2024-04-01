@@ -2,6 +2,8 @@ import React from 'react'
 
 export default function Page() {
   return (
-    <div>This is the home page!</div>
+    <div>
+      <p>Ange is the cutest</p>
+    </div>
   )
 }
