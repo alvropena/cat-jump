@@ -77,6 +77,48 @@ export default function Component() {
                   </CardContent>
                 </Card>
               </div>
+              <div className="p-1">
+                <Card>
+                  <CardContent className="flex items-start p-6 gap-6 flex-col">
+                    <Image
+                      alt="Image"
+                      className="rounded"
+                      height={225}
+                      src="/placeholder.svg"
+                      style={{
+                        aspectRatio: "400/225",
+                        objectFit: "cover",
+                      }}
+                      width={400}
+                    />
+                    <div className="space-y-1">
+                      <h3 className="text-lg font-bold leading-none">Slide 3</h3>
+                      <p className="text-sm font-medium text-gray-500 leading-none">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum interdum mi sed lacus scelerisque, vel commodo dolor pellentesque. Suspendisse auctor, ipsum a malesuada elementum, magna sapien fringilla libero, nec aliquam.</p>
+                    </div>
+                  </CardContent>
+                </Card>
+              </div>
+              <div className="p-1">
+                <Card>
+                  <CardContent className="flex items-start p-6 gap-6 flex-col">
+                    <Image
+                      alt="Image"
+                      className="rounded"
+                      height={225}
+                      src="/placeholder.svg"
+                      style={{
+                        aspectRatio: "400/225",
+                        objectFit: "cover",
+                      }}
+                      width={400}
+                    />
+                    <div className="space-y-1">
+                      <h3 className="text-lg font-bold leading-none">Slide 3</h3>
+                      <p className="text-sm font-medium text-gray-500 leading-none">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum interdum mi sed lacus scelerisque, vel commodo dolor pellentesque. Suspendisse auctor, ipsum a malesuada elementum, magna sapien fringilla libero, nec aliquam.</p>
+                    </div>
+                  </CardContent>
+                </Card>
+              </div>
             </CarouselItem>
             <CarouselItem>
               <div className="p-1">
@@ -100,8 +142,92 @@ export default function Component() {
                   </CardContent>
                 </Card>
               </div>
+              <div className="p-1">
+                <Card>
+                  <CardContent className="flex items-start p-6 gap-6 flex-col">
+                    <Image
+                      alt="Image"
+                      className="rounded"
+                      height={225}
+                      src="/placeholder.svg"
+                      style={{
+                        aspectRatio: "400/225",
+                        objectFit: "cover",
+                      }}
+                      width={400}
+                    />
+                    <div className="space-y-1">
+                      <h3 className="text-lg font-bold leading-none">Slide 3</h3>
+                      <p className="text-sm font-medium text-gray-500 leading-none">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum interdum mi sed lacus scelerisque, vel commodo dolor pellentesque. Suspendisse auctor, ipsum a malesuada elementum, magna sapien fringilla libero, nec aliquam.</p>
+                    </div>
+                  </CardContent>
+                </Card>
+              </div>
+              <div className="p-1">
+                <Card>
+                  <CardContent className="flex items-start p-6 gap-6 flex-col">
+                    <Image
+                      alt="Image"
+                      className="rounded"
+                      height={225}
+                      src="/placeholder.svg"
+                      style={{
+                        aspectRatio: "400/225",
+                        objectFit: "cover",
+                      }}
+                      width={400}
+                    />
+                    <div className="space-y-1">
+                      <h3 className="text-lg font-bold leading-none">Slide 3</h3>
+                      <p className="text-sm font-medium text-gray-500 leading-none">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum interdum mi sed lacus scelerisque, vel commodo dolor pellentesque. Suspendisse auctor, ipsum a malesuada elementum, magna sapien fringilla libero, nec aliquam.</p>
+                    </div>
+                  </CardContent>
+                </Card>
+              </div>
             </CarouselItem>
             <CarouselItem>
+              <div className="p-1">
+                <Card>
+                  <CardContent className="flex items-start p-6 gap-6 flex-col">
+                    <Image
+                      alt="Image"
+                      className="rounded"
+                      height={225}
+                      src="/placeholder.svg"
+                      style={{
+                        aspectRatio: "400/225",
+                        objectFit: "cover",
+                      }}
+                      width={400}
+                    />
+                    <div className="space-y-1">
+                      <h3 className="text-lg font-bold leading-none">Slide 3</h3>
+                      <p className="text-sm font-medium text-gray-500 leading-none">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum interdum mi sed lacus scelerisque, vel commodo dolor pellentesque. Suspendisse auctor, ipsum a malesuada elementum, magna sapien fringilla libero, nec aliquam.</p>
+                    </div>
+                  </CardContent>
+                </Card>
+              </div>
+              <div className="p-1">
+                <Card>
+                  <CardContent className="flex items-start p-6 gap-6 flex-col">
+                    <Image
+                      alt="Image"
+                      className="rounded"
+                      height={225}
+                      src="/placeholder.svg"
+                      style={{
+                        aspectRatio: "400/225",
+                        objectFit: "cover",
+                      }}
+                      width={400}
+                    />
+                    <div className="space-y-1">
+                      <h3 className="text-lg font-bold leading-none">Slide 3</h3>
+                      <p className="text-sm font-medium text-gray-500 leading-none">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum interdum mi sed lacus scelerisque, vel commodo dolor pellentesque. Suspendisse auctor, ipsum a malesuada elementum, magna sapien fringilla libero, nec aliquam.</p>
+                    </div>
+                  </CardContent>
+                </Card>
+              </div>
               <div className="p-1">
                 <Card>
                   <CardContent className="flex items-start p-6 gap-6 flex-col">
